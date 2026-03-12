@@ -1,0 +1,17 @@
+{
+  "name": "grammar-checker",
+  "version": "1.0.0",
+  "description": "语法纠错、风格建议、学术润色 | Nexa Claw - https://nexaclaw.cn/",
+  "author": {
+    "name": "Nexa Claw",
+    "email": "nexaclaw@outlook.com",
+    "url": "https://nexaclaw.cn/"
+  },
+  "homepage": "https://nexaclaw.cn/",
+  "license": "MIT",
+  "keywords": ["grammar-checker", "Nexa Claw", "AI", "automation"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nexaclaw/grammar-checker"
+  }
+}
